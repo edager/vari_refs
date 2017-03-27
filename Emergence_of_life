@@ -1,0 +1,688 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Article{Acevedo1987,
+  Title                    = {Non-enzymatic transcription of an oligodeoxynucleotide 14 residues long},
+  Author                   = {Acevedo, Oscar L. and Orgel, Leslie E.},
+  Journal                  = {Journal of Molecular Biology},
+  Year                     = {1987},
+
+  Month                    = {Sep},
+  Number                   = {2},
+  Pages                    = {187–193},
+  Volume                   = {197},
+
+  Doi                      = {10.1016/0022-2836(87)90117-3},
+  ISSN                     = {0022-2836},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1016/0022-2836(87)90117-3}
+}
+
+@Article{Andrieux2008,
+  Title                    = {Nonequilibrium generation of information in copolymerization processes},
+  Author                   = {Andrieux, D. and Gaspard, P.},
+  Journal                  = {Proceedings of the National Academy of Sciences},
+  Year                     = {2008},
+
+  Month                    = {Jul},
+  Number                   = {28},
+  Pages                    = {9516–9521},
+  Volume                   = {105},
+
+  Doi                      = {10.1073/pnas.0802049105},
+  ISSN                     = {1091-6490},
+  Owner                    = {emil},
+  Publisher                = {Proceedings of the National Academy of Sciences},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1073/pnas.0802049105}
+}
+
+@Article{Baaske2007,
+  Title                    = {Extreme accumulation of nucleotides in simulated hydrothermal pore systems},
+  Author                   = {Baaske, P. and Weinert, F. M. and Duhr, S. and Lemke, K. H. and Russell, M. J. and Braun, D.},
+  Journal                  = {Proceedings of the National Academy of Sciences},
+  Year                     = {2007},
+
+  Month                    = {May},
+  Number                   = {22},
+  Pages                    = {9346–9351},
+  Volume                   = {104},
+
+  Doi                      = {10.1073/pnas.0609592104},
+  ISSN                     = {1091-6490},
+  Owner                    = {emil},
+  Publisher                = {Proceedings of the National Academy of Sciences},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1073/pnas.0609592104}
+}
+
+@Article{Benner2012,
+  Title                    = {Asphalt, Water, and the Prebiotic Synthesis of Ribose, Ribonucleosides, and RNA},
+  Author                   = {Benner, Steven A. and Kim, Hyo-Joong and Carrigan, Matthew A.},
+  Journal                  = {Accounts of Chemical Research},
+  Year                     = {2012},
+
+  Month                    = {Dec},
+  Number                   = {12},
+  Pages                    = {2025–2034},
+  Volume                   = {45},
+
+  Doi                      = {10.1021/ar200332w},
+  ISSN                     = {1520-4898},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1021/ar200332w}
+}
+
+@Article{Blackmond2004,
+  Title                    = {Asymmetric Catalysis Special Feature Part II: Asymmetric autocatalysis and its implications for the origin of homochirality},
+  Author                   = {Blackmond, D. G.},
+  Journal                  = {Proceedings of the National Academy of Sciences},
+  Year                     = {2004},
+
+  Month                    = {Apr},
+  Number                   = {16},
+  Pages                    = {5732–5736},
+  Volume                   = {101},
+
+  Doi                      = {10.1073/pnas.0308363101},
+  ISSN                     = {1091-6490},
+  Owner                    = {emil},
+  Publisher                = {Proceedings of the National Academy of Sciences},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1073/pnas.0308363101}
+}
+
+@Article{Blackmond2007,
+  Title                    = {Spoilt for choice: assessing phase behavior models for the evolution of homochirality},
+  Author                   = {Blackmond, Donna G. and Klussmann, Martin},
+  Journal                  = {Chemical Communications},
+  Year                     = {2007},
+  Number                   = {39},
+  Pages                    = {3990},
+
+  Doi                      = {10.1039/b709314b},
+  ISSN                     = {1364-548X},
+  Owner                    = {emil},
+  Publisher                = {Royal Society of Chemistry (RSC)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1039/B709314B}
+}
+
+@Article{Colomb-Delsuc2015,
+  Title                    = {Exponential self-replication enabled through a fibre elongation/breakage mechanism},
+  Author                   = {Colomb-Delsuc, Mathieu and Mattia, Elio and Sadownik, Jan W. and Otto, Sijbren},
+  Journal                  = {Nature Communications},
+  Year                     = {2015},
+
+  Month                    = {Jun},
+  Pages                    = {7427},
+  Volume                   = {6},
+
+  Doi                      = {10.1038/ncomms8427},
+  ISSN                     = {2041-1723},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/ncomms8427}
+}
+
+@Article{Crick1968,
+  Title                    = {The origin of the genetic code},
+  Author                   = {Crick, F.H.C.},
+  Journal                  = {Journal of Molecular Biology},
+  Year                     = {1968},
+
+  Month                    = {Dec},
+  Number                   = {3},
+  Pages                    = {367–379},
+  Volume                   = {38},
+
+  Doi                      = {10.1016/0022-2836(68)90392-6},
+  ISSN                     = {0022-2836},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1016/0022-2836(68)90392-6}
+}
+
+@Article{Deck2011,
+  Title                    = {Efficient enzyme-free copying of all four nucleobases templated by immobilized RNA},
+  Author                   = {Deck, Christopher and Jauker, Mario and Richert, Clemens},
+  Journal                  = {Nature Chemistry},
+  Year                     = {2011},
+
+  Month                    = {Jul},
+  Number                   = {8},
+  Pages                    = {603–608},
+  Volume                   = {3},
+
+  Doi                      = {10.1038/nchem.1086},
+  ISSN                     = {1755-4349},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/nchem.1086}
+}
+
+@Article{Eigen1977,
+  Title                    = {A principle of natural self-organization},
+  Author                   = {Eigen, Manfred and Schuster, Peter},
+  Journal                  = {Naturwissenschaften},
+  Year                     = {1977},
+
+  Month                    = {Nov},
+  Number                   = {11},
+  Pages                    = {541–565},
+  Volume                   = {64},
+
+  Doi                      = {10.1007/bf00450633},
+  ISSN                     = {1432-1904},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1007/BF00450633}
+}
+
+@Article{Gansauge2013,
+  Title                    = {Single-stranded {DNA} library preparation for the sequencing of ancient or damaged {DNA}},
+  Author                   = {Gansauge, Marie-Theres and Meyer, Matthias},
+  Journal                  = {Nature Protocols},
+  Year                     = {2013},
+
+  Month                    = {Mar},
+  Number                   = {4},
+  Pages                    = {737–748},
+  Volume                   = {8},
+
+  Doi                      = {10.1038/nprot.2013.038},
+  ISSN                     = {1750-2799},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1038/nprot.2013.038}
+}
+
+@Article{Gilbert1986,
+  Title                    = {Origin of life: The RNA world},
+  Author                   = {Gilbert, Walter},
+  Journal                  = {Nature},
+  Year                     = {1986},
+
+  Month                    = {Feb},
+  Number                   = {6055},
+  Pages                    = {618–618},
+  Volume                   = {319},
+
+  Doi                      = {10.1038/319618a0},
+  ISSN                     = {0028-0836},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1038/319618a0}
+}
+
+@Article{Grew2011,
+  Title                    = {Borate Minerals and Origin of the RNA World},
+  Author                   = {Grew, Edward S. and Bada, Jeffrey L. and Hazen, Robert M.},
+  Journal                  = {Origins of Life and Evolution of Biospheres},
+  Year                     = {2011},
+
+  Month                    = {Jan},
+  Number                   = {4},
+  Pages                    = {307–316},
+  Volume                   = {41},
+
+  Doi                      = {10.1007/s11084-010-9233-y},
+  ISSN                     = {1573-0875},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1007/s11084-010-9233-y}
+}
+
+@Article{Herschy2014,
+  Title                    = {An Origin-of-Life Reactor to Simulate Alkaline Hydrothermal Vents},
+  Author                   = {Herschy, Barry and Whicher, Alexandra and Camprubi, Eloi and Watson, Cameron and Dartnell, Lewis and Ward, John and Evans, Julian R. G. and Lane, Nick},
+  Journal                  = {Journal of Molecular Evolution},
+  Year                     = {2014},
+
+  Month                    = {Nov},
+  Number                   = {5-6},
+  Pages                    = {213–227},
+  Volume                   = {79},
+
+  Doi                      = {10.1007/s00239-014-9658-4},
+  ISSN                     = {1432-1432},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1007/s00239-014-9658-4}
+}
+
+@Article{Ichihashi2013,
+  Title                    = {Darwinian evolution in a translation-coupled RNA replication system within a cell-like compartment},
+  Author                   = {Ichihashi, Norikazu and Usui, Kimihito and Kazuta, Yasuaki and Sunami, Takeshi and Matsuura, Tomoaki and Yomo, Tetsuya},
+  Journal                  = {Nature Communications},
+  Year                     = {2013},
+
+  Month                    = {Oct},
+  Volume                   = {4},
+
+  __markedentry            = {[emil:]},
+  Doi                      = {10.1038/ncomms3494},
+  ISSN                     = {2041-1723},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/ncomms3494}
+}
+
+@Article{Jimenez2013,
+  Title                    = {Comprehensive experimental fitness landscape and evolutionary network for small RNA},
+  Author                   = {Jimenez, J. I. and Xulvi-Brunet, R. and Campbell, G. W. and Turk-MacLeod, R. and Chen, I. A.},
+  Journal                  = {Proceedings of the National Academy of Sciences},
+  Year                     = {2013},
+
+  Month                    = {Aug},
+  Number                   = {37},
+  Pages                    = {14984–14989},
+  Volume                   = {110},
+
+  Doi                      = {10.1073/pnas.1307604110},
+  ISSN                     = {1091-6490},
+  Owner                    = {emil},
+  Publisher                = {Proceedings of the National Academy of Sciences},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1073/pnas.1307604110}
+}
+
+@Article{Keil2016,
+  Title                    = {Probing of molecular replication and accumulation in shallow heat gradients through numerical simulations},
+  Author                   = {Keil, Lorenz and Hartmann, Michael and Lanzmich, Simon and Braun, Dieter},
+  Journal                  = {Phys. Chem. Chem. Phys.},
+  Year                     = {2016},
+  Number                   = {30},
+  Pages                    = {20153–20159},
+  Volume                   = {18},
+
+  Doi                      = {10.1039/c6cp00577b},
+  ISSN                     = {1463-9084},
+  Owner                    = {emil},
+  Publisher                = {Royal Society of Chemistry (RSC)},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1039/C6CP00577B}
+}
+
+@Article{Knebel2015,
+  Title                    = {Evolutionary games of condensates in coupled birth–death processes},
+  Author                   = {Knebel, Johannes and Weber, Markus F. and Krüger, Torben and Frey, Erwin},
+  Journal                  = {Nature Communications},
+  Year                     = {2015},
+
+  Month                    = {Apr},
+  Pages                    = {6977},
+  Volume                   = {6},
+
+  Doi                      = {10.1038/ncomms7977},
+  ISSN                     = {2041-1723},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/ncomms7977}
+}
+
+@Article{Kreysing2015,
+  Title                    = {Heat flux across an open pore enables the continuous replication and selection of oligonucleotides towards increasing length},
+  Author                   = {Kreysing, Moritz and Keil, Lorenz and Lanzmich, Simon and Braun, Dieter},
+  Journal                  = {Nature Chemistry},
+  Year                     = {2015},
+
+  Month                    = {Jan},
+  Number                   = {3},
+  Pages                    = {203–208},
+  Volume                   = {7},
+
+  Doi                      = {10.1038/nchem.2155},
+  ISSN                     = {1755-4349},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1038/nchem.2155}
+}
+
+@Article{Lincoln2009,
+  Title                    = {Self-Sustained Replication of an RNA Enzyme},
+  Author                   = {Lincoln, T. A. and Joyce, G. F.},
+  Journal                  = {Science},
+  Year                     = {2009},
+
+  Month                    = {Feb},
+  Number                   = {5918},
+  Pages                    = {1229–1232},
+  Volume                   = {323},
+
+  Doi                      = {10.1126/science.1167856},
+  ISSN                     = {1095-9203},
+  Owner                    = {emil},
+  Publisher                = {American Association for the Advancement of Science (AAAS)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1126/science.1167856}
+}
+
+@Article{Mansy2008,
+  Title                    = {Template-directed synthesis of a genetic polymer in a model protocell},
+  Author                   = {Mansy, Sheref S. and Schrum, Jason P. and Krishnamurthy, Mathangi and Tobé, Sylvia and Treco, Douglas A. and Szostak, Jack W.},
+  Journal                  = {Nature},
+  Year                     = {2008},
+
+  Month                    = {Jun},
+  Number                   = {7200},
+  Pages                    = {122–125},
+  Volume                   = {454},
+
+  Doi                      = {10.1038/nature07018},
+  ISSN                     = {1476-4687},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/nature07018}
+}
+
+@Article{Martin2008,
+  Title                    = {Hydrothermal vents and the origin of life},
+  Author                   = {Martin, William and Baross, John and Kelley, Deborah and Russell, Michael J.},
+  Journal                  = {Nature Reviews Microbiology},
+  Year                     = {2008},
+
+  Month                    = {Sep},
+
+  Doi                      = {10.1038/nrmicro1991},
+  ISSN                     = {1740-1534},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/nrmicro1991}
+}
+
+@Article{Mast2016,
+  Title                    = {Emergence of Life from Trapped Nucleotides? Non-Equilibrium ­Behavior of Oligonucleotides in Thermal Gradients},
+  Author                   = {Mast, Christof and Braun, Dieter and Agerschou, Emil},
+  Journal                  = {Synlett},
+  Year                     = {2016},
+
+  Month                    = {Dec},
+  Number                   = {01},
+  Pages                    = {56–63},
+  Volume                   = {28},
+
+  Doi                      = {10.1055/s-0036-1588653},
+  ISSN                     = {1437-2096},
+  Owner                    = {emil},
+  Publisher                = {Thieme Publishing Group},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1055/s-0036-1588653}
+}
+
+@Article{Mast2013,
+  Title                    = {Escalation of polymerization in a thermal gradient},
+  Author                   = {Mast, C. B. and Schink, S. and Gerland, U. and Braun, D.},
+  Journal                  = {Proceedings of the National Academy of Sciences},
+  Year                     = {2013},
+
+  Month                    = {Apr},
+  Number                   = {20},
+  Pages                    = {8030–8035},
+  Volume                   = {110},
+
+  Doi                      = {10.1073/pnas.1303222110},
+  ISSN                     = {1091-6490},
+  Owner                    = {emil},
+  Publisher                = {Proceedings of the National Academy of Sciences},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1073/pnas.1303222110}
+}
+
+@Article{Mills1967,
+  Title                    = {An extracellular Darwinian experiment with a self-duplicating nucleic acid molecule},
+  Author                   = {Mills, DR and Peterson, RL and Spiegelman, Sol},
+  Journal                  = {Proceedings of the National Academy of Sciences},
+  Year                     = {1967},
+  Number                   = {1},
+  Pages                    = {217--224},
+  Volume                   = {58},
+
+  Owner                    = {emil},
+  Publisher                = {National Acad Sciences},
+  Timestamp                = {2017.02.15}
+}
+
+@Article{Moeller2017,
+  Title                    = {Steep pH Gradients and Directed Colloid Transport in a Microfluidic Alkaline Hydrothermal Pore},
+  Author                   = {Möller, Friederike M. and Kriegel, Franziska and Kieß, Michael and Sojo, Victor and Braun, Dieter},
+  Journal                  = {Angewandte Chemie International Edition},
+  Year                     = {2017},
+
+  Month                    = {Jan},
+  Number                   = {9},
+  Pages                    = {2340–2344},
+  Volume                   = {56},
+
+  Doi                      = {10.1002/anie.201610781},
+  ISSN                     = {1433-7851},
+  Owner                    = {emil},
+  Publisher                = {Wiley-Blackwell},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1002/anie.201610781}
+}
+
+@Article{Morasch2016,
+  Title                    = {Back Cover: Heat-Flow-Driven Oligonucleotide Gelation Separates Single-Base Differences (Angew. Chem. Int. Ed. 23/2016)},
+  Author                   = {Morasch, Matthias and Braun, Dieter and Mast, Christof B.},
+  Journal                  = {Angewandte Chemie International Edition},
+  Year                     = {2016},
+
+  Month                    = {Apr},
+  Number                   = {23},
+  Pages                    = {6794–6794},
+  Volume                   = {55},
+
+  Doi                      = {10.1002/anie.201603779},
+  ISSN                     = {1433-7851},
+  Owner                    = {emil},
+  Publisher                = {Wiley-Blackwell},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1002/anie.201603779}
+}
+
+@Article{Oehlenschlaeger1997,
+  Author                   = {Oehlenschläger, Frank and Eigen, Manfred},
+  Journal                  = {Origins of Life and Evolution of the Biosphere},
+  Year                     = {1997},
+  Number                   = {5/6},
+  Pages                    = {437–457},
+  Volume                   = {27},
+
+  Doi                      = {10.1023/a:1006501326129},
+  ISSN                     = {0169-6149},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1023/A:1006501326129}
+}
+
+@Article{Orgel1992,
+  Title                    = {Molecular replication},
+  Author                   = {Orgel, Leslie E},
+  Journal                  = {Nature},
+  Year                     = {1992},
+  Number                   = {6383},
+  Pages                    = {203--209},
+  Volume                   = {358},
+
+  Owner                    = {emil},
+  Timestamp                = {2017.02.15}
+}
+
+@Article{Powner2009,
+  Title                    = {Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions},
+  Author                   = {Powner, Matthew W. and Gerland, Béatrice and Sutherland, John D.},
+  Journal                  = {Nature},
+  Year                     = {2009},
+
+  Month                    = {May},
+  Number                   = {7244},
+  Pages                    = {239–242},
+  Volume                   = {459},
+
+  Doi                      = {10.1038/nature08013},
+  ISSN                     = {1476-4687},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1038/nature08013}
+}
+
+@Article{Pressman2015,
+  Title                    = {The RNA World as a Model System to Study the Origin of Life},
+  Author                   = {Pressman, Abe and Blanco, Celia and Chen, Irene A.},
+  Journal                  = {Current Biology},
+  Year                     = {2015},
+
+  Month                    = {Oct},
+  Number                   = {19},
+  Pages                    = {R953–R963},
+  Volume                   = {25},
+
+  __markedentry            = {[emil:6]},
+  Doi                      = {10.1016/j.cub.2015.06.016},
+  ISSN                     = {0960-9822},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1016/j.cub.2015.06.016}
+}
+
+@Article{Pross2011,
+  Title                    = {Toward a general theory of evolution: Extending Darwinian theory to inanimate matter},
+  Author                   = {Pross, Addy},
+  Journal                  = {Journal of Systems Chemistry},
+  Year                     = {2011},
+  Number                   = {1},
+  Pages                    = {1},
+  Volume                   = {2},
+
+  Doi                      = {10.1186/1759-2208-2-1},
+  ISSN                     = {1759-2208},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1186/1759-2208-2-1}
+}
+
+@Article{Robertson2010,
+  Title                    = {The Origins of the RNA World},
+  Author                   = {Robertson, M. P. and Joyce, G. F.},
+  Journal                  = {Cold Spring Harbor Perspectives in Biology},
+  Year                     = {2010},
+
+  Month                    = {Apr},
+  Number                   = {5},
+  Pages                    = {a003608–a003608},
+  Volume                   = {4},
+
+  Doi                      = {10.1101/cshperspect.a003608},
+  ISSN                     = {1943-0264},
+  Owner                    = {emil},
+  Publisher                = {Cold Spring Harbor Laboratory Press},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1101/cshperspect.a003608}
+}
+
+@Article{Roekel2015,
+  Title                    = {Programmable chemical reaction networks: emulating regulatory functions in living cells using a bottom-up approach},
+  Author                   = {van Roekel, Hendrik W. H. and Rosier, Bas J. H. M. and Meijer, Lenny H. H. and Hilbers, Peter A. J. and Markvoort, Albert J. and Huck, Wilhelm T. S. and de Greef, Tom F. A.},
+  Journal                  = {Chem. Soc. Rev.},
+  Year                     = {2015},
+  Number                   = {21},
+  Pages                    = {7465–7483},
+  Volume                   = {44},
+
+  Doi                      = {10.1039/c5cs00361j},
+  ISSN                     = {1460-4744},
+  Owner                    = {emil},
+  Publisher                = {Royal Society of Chemistry (RSC)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1039/C5CS00361J}
+}
+
+@Article{Sadownik2016,
+  Title                    = {Diversification of self-replicating molecules},
+  Author                   = {Sadownik, Jan W. and Mattia, Elio and Nowak, Piotr and Otto, Sijbren},
+  Journal                  = {Nature Chemistry},
+  Year                     = {2016},
+
+  Month                    = {Jan},
+  Number                   = {3},
+  Pages                    = {264–269},
+  Volume                   = {8},
+
+  Doi                      = {10.1038/nchem.2419},
+  ISSN                     = {1755-4349},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/nchem.2419}
+}
+
+@Book{Schrodinger2013,
+  Title                    = {WHAT IS LIFE ? WITH MIND \& MATTER \& AUTOBIOGRAPHICAL SKETCHES},
+  Author                   = {Erwin Schrodinger},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2013},
+
+  ISBN                     = {1107604664},
+  Owner                    = {emil},
+  Timestamp                = {2017.02.15},
+  Url                      = {https://www.amazon.com/WHAT-LIFE-MATTER-AUTOBIOGRAPHICAL-SKETCHES/dp/B007B9F9U4%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB007B9F9U4}
+}
+
+@Article{Soai1995,
+  Title                    = {Asymmetric autocatalysis and amplification of enantiomeric excess of a chiral molecule},
+  Author                   = {Soai, Kenso and Shibata, Takanori and Morioka, Hiroshi and Choji, Kaori},
+  Journal                  = {Nature},
+  Year                     = {1995},
+  Number                   = {6559},
+  Pages                    = {767},
+  Volume                   = {378},
+
+  Owner                    = {emil},
+  Publisher                = {Nature Publishing Group},
+  Timestamp                = {2017.02.15}
+}
+
+@Article{Vaidya2012,
+  Title                    = {Spontaneous network formation among cooperative RNA replicators},
+  Author                   = {Vaidya, Nilesh and Manapat, Michael L. and Chen, Irene A. and Xulvi-Brunet, Ramon and Hayden, Eric J. and Lehman, Niles},
+  Journal                  = {Nature},
+  Year                     = {2012},
+
+  Month                    = {Oct},
+  Number                   = {7422},
+  Pages                    = {72–77},
+  Volume                   = {491},
+
+  Doi                      = {10.1038/nature11549},
+  ISSN                     = {1476-4687},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1038/nature11549}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}
+

@@ -1,0 +1,520 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Article{Bouty1880,
+  Title                    = {CH. SORET. — Sur l’état d’équilibre que prend, au point de vue de sa concentration, une dissolution saline primitivement homogène, dont deux parties sont portées à des températures différentes; Archives de Genève, 3e periode, t. II, p. 48; 1879},
+  Author                   = {Bouty, E. },
+  Journal                  = {Journal de Physique Théorique et Appliquée},
+  Year                     = {1880},
+  Number                   = {1},
+  Pages                    = {331–332},
+  Volume                   = {9},
+
+  Doi                      = {10.1051/jphystap:018800090033101},
+  ISSN                     = {0368-3893},
+  Owner                    = {emil},
+  Publisher                = {EDP Sciences},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1051/jphystap:018800090033101}
+}
+
+@Article{Clark1997,
+  Title                    = {Multiplex dsDNA Fragment Sizing Using Dimeric Intercalation Dyes and Capillary Array Electrophoresis:  Ionic Effects on the Stability and Electrophoretic Mobility of {DNA}−Dye Complexes},
+  Author                   = {Clark, Steven M. and Mathies, Richard A.},
+  Journal                  = {Analytical Chemistry},
+  Year                     = {1997},
+
+  Month                    = {Apr},
+  Number                   = {7},
+  Pages                    = {1355–1363},
+  Volume                   = {69},
+
+  Doi                      = {10.1021/ac960866g},
+  ISSN                     = {1520-6882},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1021/ac960866g}
+}
+
+@Article{Clusius1938,
+  Title                    = {Neues Verfahren zur Gasentmischung und Isotopentrennung},
+  Author                   = {Clusius, Klaus and Dickel, Gerhad},
+  Journal                  = {Die Naturwissenschaften},
+  Year                     = {1938},
+
+  Month                    = {Aug},
+  Number                   = {33},
+  Pages                    = {546–546},
+  Volume                   = {26},
+
+  Doi                      = {10.1007/bf01675498},
+  ISSN                     = {1432-1904},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1007/BF01675498}
+}
+
+@Article{Dhont2008,
+  Title                    = {Single-particle thermal diffusion of charged colloids: Double-layer theory in a temperature gradient},
+  Author                   = {Dhont, J. K. G. and Briels, W. J.},
+  Journal                  = {The European Physical Journal E},
+  Year                     = {2008},
+
+  Month                    = {Jan},
+  Number                   = {1},
+  Pages                    = {61–76},
+  Volume                   = {25},
+
+  Doi                      = {10.1140/epje/i2007-10264-6},
+  ISSN                     = {1292-895X},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.18},
+  Url                      = {http://dx.doi.org/10.1140/epje/i2007-10264-6}
+}
+
+@Article{Dhont2007,
+  Title                    = {Thermodiffusion of Charged Colloids:  Single-Particle Diffusion},
+  Author                   = {Dhont, Jan K. G. and Wiegand, S. and Duhr, S. and Braun, D.},
+  Journal                  = {Langmuir},
+  Year                     = {2007},
+
+  Month                    = {Feb},
+  Number                   = {4},
+  Pages                    = {1674–1683},
+  Volume                   = {23},
+
+  Doi                      = {10.1021/la062184m},
+  ISSN                     = {1520-5827},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1021/la062184m}
+}
+
+@Article{Duhr2006,
+  Title                    = {Why molecules move along a temperature gradient},
+  Author                   = {Duhr, S. and Braun, D.},
+  Journal                  = {Proceedings of the National Academy of Sciences},
+  Year                     = {2006},
+
+  Month                    = {Dec},
+  Number                   = {52},
+  Pages                    = {19678–19682},
+  Volume                   = {103},
+
+  Doi                      = {10.1073/pnas.0603873103},
+  ISSN                     = {1091-6490},
+  Owner                    = {emil},
+  Publisher                = {Proceedings of the National Academy of Sciences},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1073/pnas.0603873103}
+}
+
+@Article{Eslahian2014,
+  Title                    = {Specific salt effects on thermophoresis of charged colloids},
+  Author                   = {Eslahian, Kyriakos A. and Majee, Arghya and Maskos, Michael and Würger, Alois},
+  Journal                  = {Soft Matter},
+  Year                     = {2014},
+  Number                   = {12},
+  Pages                    = {1931},
+  Volume                   = {10},
+
+  Doi                      = {10.1039/c3sm52779d},
+  ISSN                     = {1744-6848},
+  Owner                    = {emil},
+  Publisher                = {Royal Society of Chemistry (RSC)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1039/C3SM52779D}
+}
+
+@Article{Jerabek-Willemsen2011,
+  Title                    = {Molecular Interaction Studies Using Microscale Thermophoresis},
+  Author                   = {Jerabek-Willemsen, Moran and Wienken, Chistoph J. and Braun, Dieter and Baaske, Philipp and Duhr, Stefan},
+  Journal                  = {ASSAY and Drug Development Technologies},
+  Year                     = {2011},
+
+  Month                    = {Aug},
+  Number                   = {4},
+  Pages                    = {342–353},
+  Volume                   = {9},
+
+  Doi                      = {10.1089/adt.2011.0380},
+  ISSN                     = {1557-8127},
+  Owner                    = {emil},
+  Publisher                = {Mary Ann Liebert Inc},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1089/adt.2011.0380}
+}
+
+@Article{ludwig1856,
+  Title                    = {Diffusion zwischen ungleich erwärmten Orten gleich zusammengesetzter Lösung},
+  Author                   = {Ludwig, C.},
+  Journal                  = {K. Akademie der Wissenschaften},
+  Year                     = {1856},
+
+  Owner                    = {emil},
+  Timestamp                = {2017.02.15}
+}
+
+@Article{Manning2007,
+  Title                    = {Counterion Condensation on Charged Spheres, Cylinders, and Planes†},
+  Author                   = {Manning, Gerald S.},
+  Journal                  = {The Journal of Physical Chemistry B},
+  Year                     = {2007},
+
+  Month                    = {Jul},
+  Number                   = {29},
+  Pages                    = {8554–8559},
+  Volume                   = {111},
+
+  __markedentry            = {[emil:6]},
+  Doi                      = {10.1021/jp0670844},
+  ISSN                     = {1520-5207},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.02.18},
+  Url                      = {http://dx.doi.org/10.1021/jp0670844}
+}
+
+@Article{Manning2006,
+  Title                    = {The Persistence Length of {DNA} Is Reached from the Persistence Length of Its Null Isomer through an Internal Electrostatic Stretching Force},
+  Author                   = {Manning, Gerald S.},
+  Journal                  = {Biophysical Journal},
+  Year                     = {2006},
+
+  Month                    = {Nov},
+  Number                   = {10},
+  Pages                    = {3607–3616},
+  Volume                   = {91},
+
+  Doi                      = {10.1529/biophysj.106.089029},
+  ISSN                     = {0006-3495},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1529/biophysj.106.089029}
+}
+
+@Article{Manning1996,
+  Title                    = {The critical onset of counterion condensation: A survey of its experimental and theoretical basis},
+  Author                   = {Manning, Gerald S.},
+  Journal                  = {Berichte der Bunsengesellschaft für physikalische Chemie},
+  Year                     = {1996},
+
+  Month                    = {Jun},
+  Number                   = {6},
+  Pages                    = {909–922},
+  Volume                   = {100},
+
+  __markedentry            = {[emil:]},
+  Doi                      = {10.1002/bbpc.19961000637},
+  ISSN                     = {0005-9021},
+  Owner                    = {emil},
+  Publisher                = {Wiley-Blackwell},
+  Timestamp                = {2017.02.18},
+  Url                      = {http://dx.doi.org/10.1002/bbpc.19961000637}
+}
+
+@Article{Mast2010,
+  Title                    = {Thermal Trap for {DNA} Replication},
+  Author                   = {Mast, Christof B. and Braun, Dieter},
+  Journal                  = {Physical Review Letters},
+  Year                     = {2010},
+
+  Month                    = {May},
+  Number                   = {18},
+  Volume                   = {104},
+
+  Doi                      = {10.1103/physrevlett.104.188102},
+  ISSN                     = {1079-7114},
+  Owner                    = {emil},
+  Publisher                = {American Physical Society (APS)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1103/PhysRevLett.104.188102}
+}
+
+@Article{Maxwell1879,
+  Title                    = {On Stresses in Rarified Gases Arising from Inequalities of Temperature},
+  Author                   = {Maxwell, J. C.},
+  Journal                  = {Philosophical Transactions of the Royal Society of London},
+  Year                     = {1879},
+
+  Month                    = {Jan},
+  Number                   = {0},
+  Pages                    = {231–256},
+  Volume                   = {170},
+
+  Doi                      = {10.1098/rstl.1879.0067},
+  ISSN                     = {0261-0523},
+  Owner                    = {emil},
+  Publisher                = {The Royal Society},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1098/rstl.1879.0067}
+}
+
+@Article{Ning2008,
+  Title                    = {Thermal-Diffusive Behavior of a Dilute Solution of Charged Colloids},
+  Author                   = {Ning, Hui and Dhont, Jan K. G. and Wiegand, Simone},
+  Journal                  = {Langmuir},
+  Year                     = {2008},
+
+  Month                    = {Mar},
+  Number                   = {6},
+  Pages                    = {2426–2432},
+  Volume                   = {24},
+
+  Doi                      = {10.1021/la703517u},
+  ISSN                     = {1520-5827},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1021/la703517u}
+}
+
+@Article{Nkodo2001,
+  Title                    = {Diffusion coefficient of {DNA} molecules during free solution electrophoresis},
+  Author                   = {Nkodo, Axel E. and Garnier, Jean M. and Tinland, Bernard and Ren, Hongji and Desruisseaux, Claude and McCormick, Laurette C. and Drouin, Guy and Slater, Gary W.},
+  Journal                  = {ELECTROPHORESIS},
+  Year                     = {2001},
+
+  Month                    = {Jul},
+  Number                   = {12},
+  Pages                    = {2424–2432},
+  Volume                   = {22},
+
+  Doi                      = {10.1002/1522-2683(200107)22:12<2424::aid-elps2424>3.0.co;2-1},
+  ISSN                     = {1522-2683},
+  Owner                    = {emil},
+  Publisher                = {Wiley-Blackwell},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1002/1522-2683(200107)22:12<2424::AID-ELPS2424>3.0.CO;2-1}
+}
+
+@Article{Reichl2014,
+  Title                    = {Why Charged Molecules Move Across a Temperature Gradient: The Role of Electric Fields},
+  Author                   = {Reichl, Maren and Herzog, Mario and Götz, Alexandra and Braun, Dieter},
+  Journal                  = {Physical Review Letters},
+  Year                     = {2014},
+
+  Month                    = {May},
+  Number                   = {19},
+  Volume                   = {112},
+
+  Doi                      = {10.1103/physrevlett.112.198101},
+  ISSN                     = {1079-7114},
+  Owner                    = {emil},
+  Publisher                = {American Physical Society (APS)},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1103/PhysRevLett.112.198101}
+}
+
+@Article{Reichl2015,
+  Title                    = {Understanding the similarity in thermophoresis between single- and double-stranded {DNA} or RNA},
+  Author                   = {Reichl, Maren and Herzog, Mario and Greiss, Ferdinand and Wolff, Manuel and Braun, Dieter},
+  Journal                  = {Physical Review E},
+  Year                     = {2015},
+
+  Month                    = {Jun},
+  Number                   = {6},
+  Volume                   = {91},
+
+  Doi                      = {10.1103/physreve.91.062709},
+  ISSN                     = {1550-2376},
+  Owner                    = {emil},
+  Publisher                = {American Physical Society (APS)},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1103/PhysRevE.91.062709}
+}
+
+@Article{Reynolds1879,
+  Title                    = {On Certain Dimensional Properties of Matter in the Gaseous State. Part I. Experimental Researches on Thermal Transpiration of Gases through Porous Plates and on the Laws of Transpiration and Impulsion, Including an Experimental Proof That Gas is Not a Continuous Plenum. Part II. On an Extension of the Dynamical Theory of Gas, Which Includes the Stresses, Tangential and Normal, Caused by a Varying Condition of Gas, and Affords an Explanation of the Phenomena of Transpiration and Impulsion},
+  Author                   = {Reynolds, O.},
+  Journal                  = {Philosophical Transactions of the Royal Society of London},
+  Year                     = {1879},
+
+  Month                    = {Jan},
+  Number                   = {0},
+  Pages                    = {727–845},
+  Volume                   = {170},
+
+  Doi                      = {10.1098/rstl.1879.0078},
+  ISSN                     = {0261-0523},
+  Owner                    = {emil},
+  Publisher                = {The Royal Society},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1098/rstl.1879.0078}
+}
+
+@Article{Ruckenstein1981,
+  Title                    = {Can phoretic motions be treated as interfacial tension gradient driven phenomena?},
+  Author                   = {Ruckenstein, Eli},
+  Journal                  = {Journal of Colloid and Interface Science},
+  Year                     = {1981},
+
+  Month                    = {Sep},
+  Number                   = {1},
+  Pages                    = {77–81},
+  Volume                   = {83},
+
+  Doi                      = {10.1016/0021-9797(81)90011-4},
+  ISSN                     = {0021-9797},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1016/0021-9797(81)90011-4}
+}
+
+@Article{Seidel2013,
+  Title                    = {Microscale thermophoresis quantifies biomolecular interactions under previously challenging conditions},
+  Author                   = {Seidel, Susanne A.I. and Dijkman, Patricia M. and Lea, Wendy A. and van den Bogaart, Geert and Jerabek-Willemsen, Moran and Lazic, Ana and Joseph, Jeremiah S. and Srinivasan, Prakash and Baaske, Philipp and Simeonov, Anton and et al.},
+  Journal                  = {Methods},
+  Year                     = {2013},
+
+  Month                    = {Mar},
+  Number                   = {3},
+  Pages                    = {301–315},
+  Volume                   = {59},
+
+  Doi                      = {10.1016/j.ymeth.2012.12.005},
+  ISSN                     = {1046-2023},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1016/j.ymeth.2012.12.005}
+}
+
+@Article{Stadelmaier2009,
+  Title                    = {Thermal Diffusion of Dilute Polymer Solutions: The Role of Chain Flexibility and the Effective Segment Size},
+  Author                   = {Stadelmaier, D. and Köhler, W.},
+  Journal                  = {Macromolecules},
+  Year                     = {2009},
+
+  Month                    = {Nov},
+  Number                   = {22},
+  Pages                    = {9147–9152},
+  Volume                   = {42},
+
+  Doi                      = {10.1021/ma901794k},
+  ISSN                     = {1520-5835},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1021/ma901794k}
+}
+
+@Article{Wang2014,
+  Title                    = {Molar mass and temperature dependence of the thermodiffusion of polyethylene oxide in water/ethanol mixtures},
+  Author                   = {Wang, Zilin and Afanasenkau, Dzmitry and Dong, Minjie and Huang, Danni and Wiegand, Simone},
+  Journal                  = {The Journal of Chemical Physics},
+  Year                     = {2014},
+
+  Month                    = {Aug},
+  Number                   = {6},
+  Pages                    = {064904},
+  Volume                   = {141},
+
+  Doi                      = {10.1063/1.4891720},
+  ISSN                     = {1089-7690},
+  Owner                    = {emil},
+  Publisher                = {AIP Publishing},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1063/1.4891720}
+}
+
+@Article{Wang2013,
+  Title                    = {Thermophoresis of charged colloidal rods},
+  Author                   = {Wang, Zilin and Kriegs, Hartmut and Buitenhuis, Johan and Dhont, Jan K. G. and Wiegand, Simone},
+  Journal                  = {Soft Matter},
+  Year                     = {2013},
+  Number                   = {36},
+  Pages                    = {8697},
+  Volume                   = {9},
+
+  Doi                      = {10.1039/c3sm51456k},
+  ISSN                     = {1744-6848},
+  Owner                    = {emil},
+  Publisher                = {Royal Society of Chemistry (RSC)},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1039/c3sm51456k}
+}
+
+@Article{Wienken2010,
+  Title                    = {Protein-binding assays in biological liquids using microscale thermophoresis},
+  Author                   = {Wienken, Christoph J. and Baaske, Philipp and Rothbauer, Ulrich and Braun, Dieter and Duhr, Stefan},
+  Journal                  = {Nature Communications},
+  Year                     = {2010},
+
+  Month                    = {Oct},
+  Number                   = {7},
+  Pages                    = {100},
+  Volume                   = {1},
+
+  Doi                      = {10.1038/ncomms1093},
+  ISSN                     = {2041-1723},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1038/ncomms1093}
+}
+
+@Article{Wolff2016,
+  Title                    = {Quantitative thermophoretic study of disease-related protein aggregates},
+  Author                   = {Wolff , Manuel and Mittag, Judith J. and Herling, Therese W. and Genst, Erwin De and Dobson, Christopher M. and Knowles, Tuomas P. J. and Braun, Dieter and Buell, Alexander K.},
+  Journal                  = {Scientific Reports},
+  Year                     = {2016},
+
+  Month                    = {Mar},
+  Pages                    = {22829},
+  Volume                   = {6},
+
+  Doi                      = {10.1038/srep22829},
+  ISSN                     = {2045-2322},
+  Owner                    = {emil},
+  Publisher                = {Springer Nature},
+  Timestamp                = {2017.02.14},
+  Url                      = {http://dx.doi.org/10.1038/srep22829}
+}
+
+@Article{Wuerger2010,
+  Title                    = {Thermal non-equilibrium transport in colloids},
+  Author                   = {Würger, Alois},
+  Journal                  = {Reports on Progress in Physics},
+  Year                     = {2010},
+
+  Month                    = {Nov},
+  Number                   = {12},
+  Pages                    = {126601},
+  Volume                   = {73},
+
+  Doi                      = {10.1088/0034-4885/73/12/126601},
+  ISSN                     = {1361-6633},
+  Owner                    = {emil},
+  Publisher                = {IOP Publishing},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1088/0034-4885/73/12/126601}
+}
+
+@Article{Wuerger2009,
+  Title                    = {Molecular-Weight Dependent Thermal Diffusion in Dilute Polymer Solutions},
+  Author                   = {Würger, Alois},
+  Journal                  = {Physical Review Letters},
+  Year                     = {2009},
+
+  Month                    = {Feb},
+  Number                   = {7},
+  Volume                   = {102},
+
+  Doi                      = {10.1103/physrevlett.102.078302},
+  ISSN                     = {1079-7114},
+  Owner                    = {emil},
+  Publisher                = {American Physical Society (APS)},
+  Timestamp                = {2017.02.15},
+  Url                      = {http://dx.doi.org/10.1103/PhysRevLett.102.078302}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}
+
