@@ -12,6 +12,8 @@
   Number                   = {1},
   Pages                    = {155–166},
   Volume                   = {1339},
+
+  __markedentry            = {[emil:]},
   Doi                      = {10.1016/s0167-4838(96)00228-2},
   ISSN                     = {0167-4838},
   Owner                    = {emil},
@@ -92,23 +94,6 @@
   Url                      = {http://dx.doi.org/10.1063/1.459298}
 }
 
-@Article{Buell2017,
-  Title                    = {The Nucleation of Protein Aggregates - From Crystals to Amyloid Fibrils},
-  Author                   = {Buell, Alexander K.},
-  Journal                  = {Early Stage Protein Misfolding and Amyloid Aggregation},
-  Year                     = {2017},
-  Pages                    = {187–226},
-
-  __markedentry            = {[emil:6]},
-  Doi                      = {10.1016/bs.ircmb.2016.08.014},
-  ISBN                     = {http://id.crossref.org/isbn/9780128122518},
-  ISSN                     = {1937-6448},
-  Owner                    = {emil},
-  Publisher                = {Elsevier BV},
-  Timestamp                = {2017.03.28},
-  Url                      = {http://dx.doi.org/10.1016/bs.ircmb.2016.08.014}
-}
-
 @Article{MontgomeryPettitt2013,
   Title                    = {The unsolved “solved-problem” of protein folding},
   Author                   = {Montgomery Pettitt, B.},
@@ -138,7 +123,7 @@
   Pages                    = {442–453},
   Volume                   = {12},
 
-  __markedentry            = {[emil:]},
+  __markedentry            = {[emil:6]},
   Doi                      = {10.1111/j.1432-1033.1970.tb00871.x},
   ISSN                     = {1432-1033},
   Owner                    = {emil},
