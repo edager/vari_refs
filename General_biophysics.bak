@@ -13,7 +13,6 @@
   Pages                    = {155–166},
   Volume                   = {1339},
 
-  __markedentry            = {[emil:]},
   Doi                      = {10.1016/s0167-4838(96)00228-2},
   ISSN                     = {0167-4838},
   Owner                    = {emil},
@@ -68,6 +67,7 @@
   Number                   = {1-3},
   Pages                    = {126–128},
   Volume                   = {511},
+
   Doi                      = {10.1016/j.cplett.2011.05.049},
   ISSN                     = {0009-2614},
   Owner                    = {emil},
@@ -86,12 +86,46 @@
   Number                   = {11},
   Pages                    = {8196–8210},
   Volume                   = {93},
+
   Doi                      = {10.1063/1.459298},
   ISSN                     = {1089-7690},
   Owner                    = {emil},
   Publisher                = {AIP Publishing},
   Timestamp                = {2017.03.28},
   Url                      = {http://dx.doi.org/10.1063/1.459298}
+}
+
+@Article{Buell2017,
+  Title                    = {The Nucleation of Protein Aggregates - From Crystals to Amyloid Fibrils},
+  Author                   = {Buell, Alexander K.},
+  Journal                  = {Early Stage Protein Misfolding and Amyloid Aggregation},
+  Year                     = {2017},
+  Pages                    = {187–226},
+
+  __markedentry            = {[emil:]},
+  Doi                      = {10.1016/bs.ircmb.2016.08.014},
+  ISBN                     = {http://id.crossref.org/isbn/9780128122518},
+  ISSN                     = {1937-6448},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.03.28},
+  Url                      = {http://dx.doi.org/10.1016/bs.ircmb.2016.08.014}
+}
+
+@Article{Laub2015,
+  Title                    = {Hawkes Processes},
+  Author                   = {Patrick J. Laub and Thomas Taimre and Philip K. Pollett},
+  Year                     = {2015},
+
+  Month                    = jul,
+
+  __markedentry            = {[emil:6]},
+  Abstract                 = {Hawkes processes are a particularly interesting class of stochastic process that have been applied in diverse areas, from earthquake modelling to financial analysis. They are point processes whose defining characteristic is that they 'self-excite', meaning that each arrival increases the rate of future arrivals for some period of time. Hawkes processes are well established, particularly within the financial literature, yet many of the treatments are inaccessible to one not acquainted with the topic. This survey provides background, introduces the field and historical developments, and touches upon all major aspects of Hawkes processes.},
+  Eprint                   = {1507.02822},
+  Oai2identifier           = {1507.02822},
+  Owner                    = {emil},
+  Timestamp                = {2017.04.17},
+  Url                      = {https://arxiv.org/pdf/1507.02822.pdf}
 }
 
 @Article{MontgomeryPettitt2013,
@@ -104,6 +138,7 @@
   Number                   = {9},
   Pages                    = {1024–1027},
   Volume                   = {31},
+
   Doi                      = {10.1080/07391102.2012.748547},
   ISSN                     = {1538-0254},
   Owner                    = {emil},
@@ -123,7 +158,6 @@
   Pages                    = {442–453},
   Volume                   = {12},
 
-  __markedentry            = {[emil:6]},
   Doi                      = {10.1111/j.1432-1033.1970.tb00871.x},
   ISSN                     = {1432-1033},
   Owner                    = {emil},
@@ -161,6 +195,7 @@
   Number                   = {3},
   Pages                    = {631–644},
   Volume                   = {11},
+
   Doi                      = {10.1016/s0022-2836(65)80017-1},
   ISSN                     = {0022-2836},
   Owner                    = {emil},
