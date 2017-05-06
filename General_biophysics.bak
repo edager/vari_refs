@@ -101,8 +101,6 @@
   Journal                  = {Early Stage Protein Misfolding and Amyloid Aggregation},
   Year                     = {2017},
   Pages                    = {187–226},
-
-  __markedentry            = {[emil:]},
   Doi                      = {10.1016/bs.ircmb.2016.08.014},
   ISBN                     = {http://id.crossref.org/isbn/9780128122518},
   ISSN                     = {1937-6448},
@@ -118,8 +116,6 @@
   Year                     = {2015},
 
   Month                    = jul,
-
-  __markedentry            = {[emil:6]},
   Abstract                 = {Hawkes processes are a particularly interesting class of stochastic process that have been applied in diverse areas, from earthquake modelling to financial analysis. They are point processes whose defining characteristic is that they 'self-excite', meaning that each arrival increases the rate of future arrivals for some period of time. Hawkes processes are well established, particularly within the financial literature, yet many of the treatments are inaccessible to one not acquainted with the topic. This survey provides background, introduces the field and historical developments, and touches upon all major aspects of Hawkes processes.},
   Eprint                   = {1507.02822},
   Oai2identifier           = {1507.02822},
@@ -147,6 +143,26 @@
   Url                      = {http://dx.doi.org/10.1080/07391102.2012.748547}
 }
 
+@Article{Schneider1968,
+  Title                    = {Cooperative binding to a one-dimensional lattice. The amylose-iodine-iodide complex},
+  Author                   = {Schneider, Friedemann W. and Cronan, Charles L. and Podder, Sunil K.},
+  Journal                  = {The Journal of Physical Chemistry},
+  Year                     = {1968},
+
+  Month                    = {Dec},
+  Number                   = {13},
+  Pages                    = {4563–4568},
+  Volume                   = {72},
+
+  __markedentry            = {[emil:]},
+  Doi                      = {10.1021/j100859a032},
+  ISSN                     = {1541-5740},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.04.18},
+  Url                      = {http://dx.doi.org/10.1021/j100859a032}
+}
+
 @Article{Schwarz1970,
   Title                    = {Cooperative Binding to Linear Biopolymers. 1. Fundamental Static and Dynamic Properties},
   Author                   = {Schwarz, Gerhard},
@@ -164,6 +180,26 @@
   Publisher                = {Wiley-Blackwell},
   Timestamp                = {2017.03.28},
   Url                      = {http://dx.doi.org/10.1111/j.1432-1033.1970.tb00871.x}
+}
+
+@Article{Schwarz1968,
+  Title                    = {General theoretical approach to the thermodynamic and kinetic properties of cooperative intramolecular transformations of linear biopolymers},
+  Author                   = {Schwarz, Gerhard},
+  Journal                  = {Biopolymers},
+  Year                     = {1968},
+
+  Month                    = {Jun},
+  Number                   = {6},
+  Pages                    = {873–897},
+  Volume                   = {6},
+
+  __markedentry            = {[emil:6]},
+  Doi                      = {10.1002/bip.1968.360060610},
+  ISSN                     = {1097-0282},
+  Owner                    = {emil},
+  Publisher                = {Wiley-Blackwell},
+  Timestamp                = {2017.04.18},
+  Url                      = {http://dx.doi.org/10.1002/bip.1968.360060610}
 }
 
 @Article{Wolde1997,
