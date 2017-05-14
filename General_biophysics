@@ -21,6 +21,26 @@
   Url                      = {http://dx.doi.org/10.1016/S0167-4838(96)00228-2}
 }
 
+@Article{Andersen2009,
+  Title                    = {The Role of Decorated SDS Micelles in Sub-CMC Protein Denaturation and Association},
+  Author                   = {Andersen, Kell K. and Oliveira, Cristiano L. and Larsen, Kim L. and Poulsen, Flemming M. and Callisen, Thomas H. and Westh, Peter and Pedersen, Jan S. and Otzen, Daniel},
+  Journal                  = {Journal of Molecular Biology},
+  Year                     = {2009},
+
+  Month                    = {Aug},
+  Number                   = {1},
+  Pages                    = {207–226},
+  Volume                   = {391},
+
+  __markedentry            = {[emil:]},
+  Doi                      = {10.1016/j.jmb.2009.06.019},
+  ISSN                     = {0022-2836},
+  Owner                    = {emil},
+  Publisher                = {Elsevier BV},
+  Timestamp                = {2017.05.14},
+  Url                      = {http://dx.doi.org/10.1016/j.jmb.2009.06.019}
+}
+
 @Article{Ben-Naim2013,
   Title                    = {Theory of cold denaturation of proteins},
   Author                   = {Ben-Naim, Arieh},
@@ -119,14 +139,32 @@
   Number                   = {1},
   Pages                    = {265},
   Volume                   = {82},
-
-  __markedentry            = {[emil:6]},
   Doi                      = {10.1149/1.3071413},
   ISSN                     = {0096-4743},
   Owner                    = {emil},
   Publisher                = {The Electrochemical Society},
   Timestamp                = {2017.05.06},
   Url                      = {http://dx.doi.org/10.1149/1.3071413}
+}
+
+@Article{Dominguez1997,
+  Title                    = {Determination of Critical Micelle Concentration of Some Surfactants by Three Techniques},
+  Author                   = {Dominguez, Ana and Fernandez, Aurora and Gonzalez, Noemi and Iglesias, Emilia and Montenegro, Luis},
+  Journal                  = {Journal of Chemical Education},
+  Year                     = {1997},
+
+  Month                    = {Oct},
+  Number                   = {10},
+  Pages                    = {1227},
+  Volume                   = {74},
+
+  __markedentry            = {[emil:6]},
+  Doi                      = {10.1021/ed074p1227},
+  ISSN                     = {1938-1328},
+  Owner                    = {emil},
+  Publisher                = {American Chemical Society (ACS)},
+  Timestamp                = {2017.05.14},
+  Url                      = {http://dx.doi.org/10.1021/ed074p1227}
 }
 
 @Article{Laub2015,
@@ -173,8 +211,6 @@
   Number                   = {3},
   Pages                    = {255–263},
   Volume                   = {2},
-
-  __markedentry            = {[emil:]},
   Doi                      = {10.1016/0301-4622(74)80050-5},
   ISSN                     = {0301-4622},
   Owner                    = {emil},
@@ -193,6 +229,7 @@
   Number                   = {13},
   Pages                    = {4563–4568},
   Volume                   = {72},
+
   Doi                      = {10.1021/j100859a032},
   ISSN                     = {1541-5740},
   Owner                    = {emil},
@@ -230,6 +267,7 @@
   Number                   = {6},
   Pages                    = {873–897},
   Volume                   = {6},
+
   Doi                      = {10.1002/bip.1968.360060610},
   ISSN                     = {1097-0282},
   Owner                    = {emil},
@@ -286,6 +324,7 @@
   Number                   = {2-3},
   Pages                    = {383–387},
   Volume                   = {128},
+
   Doi                      = {10.1111/j.1432-1033.1982.tb06976.x},
   ISSN                     = {1432-1033},
   Owner                    = {emil},

@@ -10,6 +10,7 @@
 
   Month                    = {Oct},
   Volume                   = {4},
+
   Doi                      = {10.1038/ncomms3575},
   ISSN                     = {2041-1723},
   Owner                    = {emil},
@@ -46,8 +47,6 @@
   Number                   = {21},
   Pages                    = {7671–7676},
   Volume                   = {111},
-
-  __markedentry            = {[emil:]},
   Doi                      = {10.1073/pnas.1315346111},
   ISSN                     = {1091-6490},
   Owner                    = {emil},
@@ -129,6 +128,24 @@
   Publisher                = {Springer Nature},
   Timestamp                = {2017.02.16},
   Url                      = {http://dx.doi.org/10.1038/nbt1012}
+}
+
+@Article{GadeMalmos2017,
+  Title                    = {ThT 101: a primer on the use of thioflavin T to investigate amyloid formation},
+  Author                   = {Gade Malmos, Kirsten and Blancas-Mejia, Luis M. and Weber, Benedikt and Buchner, Johannes and Ramirez-Alvarado, Marina and Naiki, Hironobu and Otzen, Daniel},
+  Journal                  = {Amyloid},
+  Year                     = {2017},
+
+  Month                    = {Apr},
+  Pages                    = {1–16},
+
+  __markedentry            = {[emil:6]},
+  Doi                      = {10.1080/13506129.2017.1304905},
+  ISSN                     = {1744-2818},
+  Owner                    = {emil},
+  Publisher                = {Informa UK Limited},
+  Timestamp                = {2017.05.14},
+  Url                      = {http://dx.doi.org/10.1080/13506129.2017.1304905}
 }
 
 @Article{Giehm_2011,
@@ -308,7 +325,7 @@
   Pages                    = {4227–4230},
   Volume                   = {53},
 
-  __markedentry            = {[emil:6]},
+  __markedentry            = {[emil:]},
   Doi                      = {10.1002/anie.201309001},
   ISSN                     = {1433-7851},
   Owner                    = {emil},
